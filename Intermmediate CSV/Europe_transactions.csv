@@ -1,0 +1,235 @@
+CustomerName,CustomerID.1,Region,SignupDate,TransactionID,TransactionDate,ProductID,ProductName,Category,Price,TotalValue
+Joy Clark,C0009,Europe,2023-08-14,T00452,2024-03-16 17:26:03,P060,HomeSense T-Shirt,Clothing,155.65,155.65
+Joy Clark,C0009,Europe,2023-08-14,T00902,2024-10-12 04:57:16,P050,ActiveWear Smartwatch,Electronics,437.65,437.65
+Joy Clark,C0009,Europe,2023-08-14,T00062,2024-10-12 06:41:00,P059,SoundWave Jeans,Clothing,303.2,303.2
+Aaron Cox,C0010,Europe,2022-12-15,T00136,2024-02-22 18:44:05,P049,TechPro Textbook,Books,147.95,295.9
+Aaron Cox,C0010,Europe,2022-12-15,T00939,2024-03-29 07:04:02,P081,HomeSense Sweater,Clothing,66.32,198.96
+Aaron Cox,C0010,Europe,2022-12-15,T00901,2024-05-12 11:53:53,P014,ActiveWear Jacket,Clothing,26.26,105.04
+Aaron Cox,C0010,Europe,2022-12-15,T00517,2024-11-16 18:14:23,P036,BookWorld Jacket,Clothing,372.55,1117.65
+Deborah Wilcox,C0014,Europe,2024-06-22,T00524,2024-01-17 18:31:55,P047,ComfortLiving Cookware Set,Home Decor,159.33,318.66
+Jennifer King,C0017,Europe,2023-12-05,T00605,2023-12-31 03:27:43,P057,ActiveWear Smartphone,Electronics,239.7,958.8
+Jennifer King,C0017,Europe,2023-12-05,T00355,2024-01-12 20:20:37,P069,BookWorld Biography,Books,100.81,201.62
+Jennifer King,C0017,Europe,2023-12-05,T00067,2024-03-31 19:29:30,P096,SoundWave Headphones,Electronics,307.47,614.94
+Jennifer King,C0017,Europe,2023-12-05,T00685,2024-05-11 17:59:31,P095,BookWorld Cookware Set,Home Decor,227.26,454.52
+Jennifer King,C0017,Europe,2023-12-05,T00758,2024-05-28 14:47:15,P001,ActiveWear Biography,Books,169.3,507.9
+Jennifer King,C0017,Europe,2023-12-05,T00321,2024-06-20 04:13:03,P006,ActiveWear Rug,Home Decor,121.32,363.96
+Jennifer King,C0017,Europe,2023-12-05,T00854,2024-07-14 10:29:11,P059,SoundWave Jeans,Clothing,303.2,303.2
+Jennifer King,C0017,Europe,2023-12-05,T00921,2024-12-01 22:55:38,P066,SoundWave Textbook,Books,337.22,1348.88
+Brandon Rodriguez,C0019,Europe,2023-01-12,T00088,2024-01-30 17:23:03,P001,ActiveWear Biography,Books,169.3,338.6
+Brandon Rodriguez,C0019,Europe,2023-01-12,T00507,2024-05-28 00:57:27,P018,ComfortLiving Mystery Book,Books,436.89,436.89
+Brandon Rodriguez,C0019,Europe,2023-01-12,T00326,2024-06-14 11:41:17,P027,SoundWave Headphones,Electronics,229.06,687.18
+Brandon Rodriguez,C0019,Europe,2023-01-12,T00841,2024-07-01 13:07:47,P043,SoundWave Novel,Books,404.4,404.4
+Brandon Rodriguez,C0019,Europe,2023-01-12,T00219,2024-08-22 23:44:44,P008,BookWorld Bluetooth Speaker,Electronics,146.85,146.85
+Brandon Rodriguez,C0019,Europe,2023-01-12,T00423,2024-11-08 10:22:51,P054,SoundWave Cookbook,Books,57.3,171.9
+Nicholas Cain,C0023,Europe,2022-03-04,T00971,2024-06-22 21:26:26,P017,ActiveWear Textbook,Books,469.77,469.77
+Nicholas Cain,C0023,Europe,2022-03-04,T00597,2024-07-01 04:53:47,P041,ComfortLiving Smartphone,Electronics,456.28,1368.84
+Nicholas Cain,C0023,Europe,2022-03-04,T00168,2024-09-26 17:22:30,P083,ActiveWear Smartwatch,Electronics,455.72,1367.16
+Nicholas Cain,C0023,Europe,2022-03-04,T00451,2024-10-04 20:44:00,P012,ComfortLiving Headphones,Electronics,159.6,638.4
+Nicholas Cain,C0023,Europe,2022-03-04,T00195,2024-11-02 10:20:14,P066,SoundWave Textbook,Books,337.22,337.22
+Nicholas Cain,C0023,Europe,2022-03-04,T00513,2024-11-11 10:44:12,P032,BookWorld Cookbook,Books,488.63,977.26
+Linda Smith,C0037,Europe,2023-02-04,T00435,2024-05-16 16:00:40,P085,BookWorld Biography,Books,416.35,1665.4
+Linda Smith,C0037,Europe,2023-02-04,T00267,2024-06-30 00:11:05,P066,SoundWave Textbook,Books,337.22,1011.66
+Linda Smith,C0037,Europe,2023-02-04,T00438,2024-07-15 16:33:41,P074,SoundWave Desk Lamp,Home Decor,295.58,886.74
+Linda Smith,C0037,Europe,2023-02-04,T00064,2024-09-15 03:50:57,P009,BookWorld Wall Art,Home Decor,325.01,325.01
+Linda Smith,C0037,Europe,2023-02-04,T00613,2024-09-30 18:17:00,P006,ActiveWear Rug,Home Decor,121.32,363.96
+Lindsey Deleon,C0041,Europe,2023-12-27,T00620,2024-01-05 18:43:06,P049,TechPro Textbook,Books,147.95,591.8
+Lindsey Deleon,C0041,Europe,2023-12-27,T00066,2024-01-21 22:41:36,P011,SoundWave Desk Lamp,Home Decor,261.2,1044.8
+Lindsey Deleon,C0041,Europe,2023-12-27,T00074,2024-03-10 02:20:47,P025,ActiveWear Cookware Set,Home Decor,284.62,853.86
+Lindsey Deleon,C0041,Europe,2023-12-27,T00127,2024-06-03 21:07:56,P034,HomeSense T-Shirt,Clothing,217.05,868.2
+Lindsey Deleon,C0041,Europe,2023-12-27,T00193,2024-06-10 11:46:13,P086,SoundWave Novel,Books,440.7,1762.8
+Lindsey Deleon,C0041,Europe,2023-12-27,T00941,2024-07-20 10:39:52,P055,BookWorld Biography,Books,128.53,128.53
+Lindsey Deleon,C0041,Europe,2023-12-27,T00978,2024-12-15 21:18:12,P098,SoundWave Laptop,Electronics,299.93,899.79
+Kenneth Alexander,C0044,Europe,2024-07-10,T00307,2024-05-30 18:15:28,P045,SoundWave T-Shirt,Clothing,481.78,1927.12
+Kenneth Alexander,C0044,Europe,2024-07-10,T00666,2024-06-27 12:03:16,P096,SoundWave Headphones,Electronics,307.47,307.47
+Kenneth Alexander,C0044,Europe,2024-07-10,T00876,2024-10-22 02:45:04,P075,TechPro Textbook,Books,497.76,995.52
+Nicholas Ellis,C0051,Europe,2023-12-21,T00134,2024-01-03 04:06:49,P006,ActiveWear Rug,Home Decor,121.32,242.64
+Nicholas Ellis,C0051,Europe,2023-12-21,T00727,2024-01-20 04:52:14,P067,ComfortLiving Bluetooth Speaker,Electronics,300.68,902.04
+Nicholas Ellis,C0051,Europe,2023-12-21,T00138,2024-04-26 22:10:35,P083,ActiveWear Smartwatch,Electronics,455.72,1822.88
+Nicholas Ellis,C0051,Europe,2023-12-21,T00302,2024-07-23 12:30:30,P098,SoundWave Laptop,Electronics,299.93,299.93
+Nicholas Ellis,C0051,Europe,2023-12-21,T00257,2024-08-10 00:39:50,P091,HomeSense Rug,Home Decor,222.95,222.95
+Nicholas Ellis,C0051,Europe,2023-12-21,T00070,2024-12-11 13:46:30,P017,ActiveWear Textbook,Books,469.77,1879.08
+Nicholas Ellis,C0051,Europe,2023-12-21,T00579,2024-12-16 17:36:31,P016,ActiveWear Running Shoes,Clothing,330.05,330.05
+Albert Burke,C0053,Europe,2022-06-18,T00668,2024-01-21 08:08:41,P081,HomeSense Sweater,Clothing,66.32,132.64
+Albert Burke,C0053,Europe,2022-06-18,T00497,2024-06-21 02:02:45,P087,TechPro Running Shoes,Clothing,290.17,1160.68
+Albert Burke,C0053,Europe,2022-06-18,T00293,2024-07-11 15:32:56,P053,TechPro Rug,Home Decor,274.94,824.82
+Albert Burke,C0053,Europe,2022-06-18,T00528,2024-08-28 04:01:48,P024,SoundWave Cookbook,Books,338.66,1354.64
+Albert Burke,C0053,Europe,2022-06-18,T00506,2024-09-18 23:31:26,P006,ActiveWear Rug,Home Decor,121.32,121.32
+Albert Burke,C0053,Europe,2022-06-18,T00665,2024-11-01 12:16:45,P039,TechPro Smartwatch,Electronics,430.59,1722.36
+Elizabeth Nguyen,C0057,Europe,2024-07-27,T00783,2024-01-18 16:04:46,P097,BookWorld Cookbook,Books,319.34,638.68
+Elizabeth Nguyen,C0057,Europe,2024-07-27,T00200,2024-03-05 04:58:09,P033,TechPro T-Shirt,Clothing,64.25,192.75
+Elizabeth Nguyen,C0057,Europe,2024-07-27,T00719,2024-04-07 14:32:58,P012,ComfortLiving Headphones,Electronics,159.6,159.6
+Elizabeth Nguyen,C0057,Europe,2024-07-27,T00420,2024-07-31 21:34:31,P086,SoundWave Novel,Books,440.7,1762.8
+Elizabeth Nguyen,C0057,Europe,2024-07-27,T00660,2024-09-23 16:46:01,P008,BookWorld Bluetooth Speaker,Electronics,146.85,440.55
+Elizabeth Nguyen,C0057,Europe,2024-07-27,T00508,2024-12-18 11:46:16,P094,HomeSense Cookware Set,Home Decor,447.34,1342.02
+James Murphy,C0060,Europe,2022-04-22,T00592,2024-09-03 07:19:28,P078,HomeSense Rug,Home Decor,41.18,82.36
+Brandon Escobar,C0061,Europe,2023-03-06,T00468,2024-02-23 05:08:16,P005,TechPro T-Shirt,Clothing,429.31,858.62
+Brandon Escobar,C0061,Europe,2023-03-06,T00022,2024-08-19 08:16:57,P085,BookWorld Biography,Books,416.35,1249.05
+Brandon Escobar,C0061,Europe,2023-03-06,T00799,2024-12-10 16:00:56,P035,ActiveWear T-Shirt,Clothing,30.59,30.59
+Jeffery Hartman,C0062,Europe,2022-12-14,T00806,2024-01-04 21:05:07,P059,SoundWave Jeans,Clothing,303.2,606.4
+Jeffery Hartman,C0062,Europe,2022-12-14,T00057,2024-07-03 07:10:58,P059,SoundWave Jeans,Clothing,303.2,909.6
+Jeffery Hartman,C0062,Europe,2022-12-14,T00164,2024-07-10 08:49:17,P078,HomeSense Rug,Home Decor,41.18,123.54
+Wayne Ferguson,C0063,Europe,2024-02-05,T00394,2024-03-25 13:47:30,P097,BookWorld Cookbook,Books,319.34,1277.36
+Wayne Ferguson,C0063,Europe,2024-02-05,T00194,2024-09-28 06:07:52,P069,BookWorld Biography,Books,100.81,100.81
+Martha Montgomery,C0064,Europe,2023-10-22,T00337,2024-01-07 16:11:55,P027,SoundWave Headphones,Electronics,229.06,916.24
+Martha Montgomery,C0064,Europe,2023-10-22,T00563,2024-01-16 18:52:43,P049,TechPro Textbook,Books,147.95,147.95
+Martha Montgomery,C0064,Europe,2023-10-22,T00411,2024-02-06 15:02:30,P018,ComfortLiving Mystery Book,Books,436.89,1747.56
+Martha Montgomery,C0064,Europe,2023-10-22,T00832,2024-05-07 01:08:19,P025,ActiveWear Cookware Set,Home Decor,284.62,853.86
+Martha Montgomery,C0064,Europe,2023-10-22,T00230,2024-12-06 16:22:54,P062,HomeSense Novel,Books,374.16,374.16
+Catherine White,C0066,Europe,2024-11-15,T00473,2024-03-13 04:00:25,P080,ActiveWear Jacket,Clothing,303.5,607.0
+Catherine White,C0066,Europe,2024-11-15,T00482,2024-06-04 02:02:24,P041,ComfortLiving Smartphone,Electronics,456.28,1825.12
+Catherine White,C0066,Europe,2024-11-15,T00887,2024-08-28 20:52:33,P083,ActiveWear Smartwatch,Electronics,455.72,1367.16
+Stacy Foster,C0069,Europe,2023-12-03,T00398,2024-03-14 17:22:52,P082,ComfortLiving Rug,Home Decor,55.99,55.99
+Stacy Foster,C0069,Europe,2023-12-03,T00560,2024-05-09 09:15:59,P013,BookWorld Smartwatch,Electronics,114.2,342.6
+Stacy Foster,C0069,Europe,2023-12-03,T00231,2024-08-27 19:54:49,P041,ComfortLiving Smartphone,Electronics,456.28,912.56
+Stacy Foster,C0069,Europe,2023-12-03,T00243,2024-08-31 00:38:43,P010,ComfortLiving Smartwatch,Electronics,350.13,700.26
+Stacy Foster,C0069,Europe,2023-12-03,T00286,2024-12-09 14:58:44,P029,TechPro Headphones,Electronics,433.64,867.28
+Timothy Perez,C0070,Europe,2022-03-15,T00825,2024-02-08 14:20:05,P099,SoundWave Mystery Book,Books,354.29,354.29
+Timothy Perez,C0070,Europe,2022-03-15,T00363,2024-03-21 15:10:10,P067,ComfortLiving Bluetooth Speaker,Electronics,300.68,902.04
+Timothy Perez,C0070,Europe,2022-03-15,T00354,2024-05-15 00:22:27,P097,BookWorld Cookbook,Books,319.34,1277.36
+Timothy Perez,C0070,Europe,2022-03-15,T00650,2024-10-07 14:56:13,P049,TechPro Textbook,Books,147.95,591.8
+Heidi Johnson,C0073,Europe,2022-08-20,T00384,2024-02-04 15:35:27,P091,HomeSense Rug,Home Decor,222.95,891.8
+Heidi Johnson,C0073,Europe,2022-08-20,T00180,2024-03-11 15:12:50,P017,ActiveWear Textbook,Books,469.77,939.54
+Heidi Johnson,C0073,Europe,2022-08-20,T00634,2024-03-20 02:37:13,P054,SoundWave Cookbook,Books,57.3,229.2
+Jonathan Russo,C0074,Europe,2022-05-27,T00669,2024-01-03 16:57:09,P099,SoundWave Mystery Book,Books,354.29,1417.16
+Jonathan Russo,C0074,Europe,2022-05-27,T00879,2024-01-20 17:46:34,P005,TechPro T-Shirt,Clothing,429.31,1287.93
+Jonathan Russo,C0074,Europe,2022-05-27,T00516,2024-07-29 06:11:19,P010,ComfortLiving Smartwatch,Electronics,350.13,350.13
+Misty Higgins,C0075,Europe,2023-05-01,T00459,2024-01-17 01:36:03,P063,TechPro Novel,Books,33.59,134.36
+Misty Higgins,C0075,Europe,2023-05-01,T00197,2024-02-21 11:11:20,P047,ComfortLiving Cookware Set,Home Decor,159.33,637.32
+Misty Higgins,C0075,Europe,2023-05-01,T00135,2024-04-29 19:03:50,P097,BookWorld Cookbook,Books,319.34,958.02
+Misty Higgins,C0075,Europe,2023-05-01,T00544,2024-06-13 07:28:26,P013,BookWorld Smartwatch,Electronics,114.2,342.6
+Misty Higgins,C0075,Europe,2023-05-01,T00366,2024-08-09 17:24:33,P033,TechPro T-Shirt,Clothing,64.25,192.75
+Misty Higgins,C0075,Europe,2023-05-01,T00729,2024-10-07 06:38:36,P067,ComfortLiving Bluetooth Speaker,Electronics,300.68,601.36
+Misty Higgins,C0075,Europe,2023-05-01,T00819,2024-10-08 21:31:59,P096,SoundWave Headphones,Electronics,307.47,614.94
+Misty Higgins,C0075,Europe,2023-05-01,T00753,2024-12-06 01:59:41,P084,ActiveWear Wall Art,Home Decor,337.91,1351.64
+Misty Higgins,C0075,Europe,2023-05-01,T00249,2024-12-10 21:53:30,P024,SoundWave Cookbook,Books,338.66,1015.98
+Kimberly Turner,C0081,Europe,2024-02-24,T00869,2023-12-30 15:29:12,P061,HomeSense Desk Lamp,Home Decor,156.96,313.92
+Kimberly Turner,C0081,Europe,2024-02-24,T00389,2024-01-20 04:23:56,P006,ActiveWear Rug,Home Decor,121.32,363.96
+Kimberly Turner,C0081,Europe,2024-02-24,T00388,2024-04-11 01:44:41,P073,ComfortLiving Laptop,Electronics,26.99,26.99
+Kimberly Turner,C0081,Europe,2024-02-24,T00511,2024-05-26 05:56:36,P030,ActiveWear Cookbook,Books,277.86,833.58
+Kimberly Turner,C0081,Europe,2024-02-24,T00676,2024-09-04 02:55:21,P092,BookWorld Running Shoes,Clothing,389.2,1556.8
+Kimberly Turner,C0081,Europe,2024-02-24,T00156,2024-11-08 18:02:09,P068,TechPro Novel,Books,447.23,447.23
+Stephanie Peterson,C0086,Europe,2022-09-18,T00009,2024-04-06 03:41:22,P095,BookWorld Cookware Set,Home Decor,227.26,909.04
+Stephanie Peterson,C0086,Europe,2022-09-18,T00873,2024-08-02 11:13:00,P054,SoundWave Cookbook,Books,57.3,229.2
+Stephanie Peterson,C0086,Europe,2022-09-18,T00875,2024-09-26 23:20:59,P087,TechPro Running Shoes,Clothing,290.17,580.34
+Stephanie Peterson,C0086,Europe,2022-09-18,T00807,2024-10-23 17:24:22,P021,SoundWave Rug,Home Decor,335.84,335.84
+Stephanie Peterson,C0086,Europe,2022-09-18,T00292,2024-12-26 02:30:22,P010,ComfortLiving Smartwatch,Electronics,350.13,700.26
+Paul Carter,C0089,Europe,2024-04-02,T00908,2024-02-12 15:27:25,P079,ActiveWear Rug,Home Decor,417.37,1669.48
+Paul Carter,C0089,Europe,2024-04-02,T00839,2024-12-03 21:30:15,P074,SoundWave Desk Lamp,Home Decor,295.58,886.74
+Clinton Gomez,C0100,Europe,2023-03-16,T00202,2024-01-31 14:10:21,P084,ActiveWear Wall Art,Home Decor,337.91,337.91
+Clinton Gomez,C0100,Europe,2023-03-16,T00677,2024-03-05 23:39:40,P009,BookWorld Wall Art,Home Decor,325.01,1300.04
+Clinton Gomez,C0100,Europe,2023-03-16,T00629,2024-04-06 10:30:48,P093,TechPro Vase,Home Decor,304.94,304.94
+Clinton Gomez,C0100,Europe,2023-03-16,T00638,2024-04-27 05:29:48,P059,SoundWave Jeans,Clothing,303.2,909.6
+Clinton Gomez,C0100,Europe,2023-03-16,T00657,2024-08-04 15:35:01,P048,TechPro Cookbook,Books,416.4,416.4
+Clinton Gomez,C0100,Europe,2023-03-16,T00576,2024-09-04 20:49:41,P029,TechPro Headphones,Electronics,433.64,1734.56
+Jennifer Munoz,C0103,Europe,2022-05-15,T00618,2024-03-04 04:39:40,P092,BookWorld Running Shoes,Clothing,389.2,389.2
+Jennifer Munoz,C0103,Europe,2022-05-15,T00982,2024-07-17 03:25:18,P034,HomeSense T-Shirt,Clothing,217.05,217.05
+Jennifer Munoz,C0103,Europe,2022-05-15,T00918,2024-08-20 02:24:47,P094,HomeSense Cookware Set,Home Decor,447.34,894.68
+Jennifer Munoz,C0103,Europe,2022-05-15,T00309,2024-08-28 05:03:00,P007,SoundWave Cookbook,Books,420.15,840.3
+Jennifer Munoz,C0103,Europe,2022-05-15,T00099,2024-09-30 23:30:02,P006,ActiveWear Rug,Home Decor,121.32,121.32
+Ryan Hampton,C0105,Europe,2024-11-11,T00792,2024-01-11 06:02:11,P031,SoundWave Headphones,Electronics,196.4,196.4
+Ryan Hampton,C0105,Europe,2024-11-11,T00942,2024-06-19 06:55:10,P016,ActiveWear Running Shoes,Clothing,330.05,1320.2
+Ryan Hampton,C0105,Europe,2024-11-11,T00545,2024-06-24 10:10:17,P001,ActiveWear Biography,Books,169.3,338.6
+Ryan Hampton,C0105,Europe,2024-11-11,T00624,2024-08-03 23:04:47,P077,ActiveWear Smartwatch,Electronics,265.51,1062.04
+Ryan Hampton,C0105,Europe,2024-11-11,T00014,2024-08-05 07:35:43,P060,HomeSense T-Shirt,Clothing,155.65,155.65
+Ryan Hampton,C0105,Europe,2024-11-11,T00132,2024-09-03 19:50:06,P029,TechPro Headphones,Electronics,433.64,1734.56
+Roger David,C0111,Europe,2024-11-13,T00991,2024-01-26 22:34:43,P003,ComfortLiving Biography,Books,44.12,132.36
+Roger David,C0111,Europe,2024-11-13,T00683,2024-01-27 21:34:25,P016,ActiveWear Running Shoes,Clothing,330.05,1320.2
+Roger David,C0111,Europe,2024-11-13,T00317,2024-06-19 15:07:10,P073,ComfortLiving Laptop,Electronics,26.99,107.96
+Roger David,C0111,Europe,2024-11-13,T00486,2024-07-03 07:27:54,P081,HomeSense Sweater,Clothing,66.32,265.28
+Roger David,C0111,Europe,2024-11-13,T00726,2024-12-12 18:56:02,P038,TechPro Vase,Home Decor,147.22,147.22
+Benjamin Anderson,C0114,Europe,2024-11-18,T00403,2024-02-21 15:52:59,P061,HomeSense Desk Lamp,Home Decor,156.96,627.84
+Benjamin Anderson,C0114,Europe,2024-11-18,T00523,2024-03-15 12:05:37,P039,TechPro Smartwatch,Electronics,430.59,1291.77
+Benjamin Anderson,C0114,Europe,2024-11-18,T00788,2024-06-13 12:58:37,P020,ActiveWear Jacket,Clothing,396.34,1189.02
+Benjamin Anderson,C0114,Europe,2024-11-18,T00931,2024-09-04 22:08:05,P043,SoundWave Novel,Books,404.4,1617.6
+Benjamin Anderson,C0114,Europe,2024-11-18,T00424,2024-09-23 04:35:24,P088,SoundWave Headphones,Electronics,263.55,1054.2
+David Armstrong,C0119,Europe,2023-11-13,T00476,2024-02-07 04:03:23,P061,HomeSense Desk Lamp,Home Decor,156.96,156.96
+David Armstrong,C0119,Europe,2023-11-13,T00538,2024-04-26 17:37:36,P040,SoundWave Mystery Book,Books,153.19,306.38
+David Armstrong,C0119,Europe,2023-11-13,T00748,2024-10-13 16:15:16,P096,SoundWave Headphones,Electronics,307.47,307.47
+David Armstrong,C0119,Europe,2023-11-13,T00179,2024-11-27 08:06:10,P012,ComfortLiving Headphones,Electronics,159.6,159.6
+David Armstrong,C0119,Europe,2023-11-13,T00698,2024-12-26 21:34:07,P011,SoundWave Desk Lamp,Home Decor,261.2,261.2
+Mark Atkinson,C0121,Europe,2023-07-23,T00140,2024-03-18 09:16:33,P069,BookWorld Biography,Books,100.81,201.62
+Mark Atkinson,C0121,Europe,2023-07-23,T00895,2024-05-03 18:35:03,P022,HomeSense Wall Art,Home Decor,137.54,412.62
+Mark Atkinson,C0121,Europe,2023-07-23,T00562,2024-07-06 11:32:13,P026,SoundWave Bluetooth Speaker,Electronics,64.38,64.38
+Mark Atkinson,C0121,Europe,2023-07-23,T00567,2024-09-27 23:40:32,P049,TechPro Textbook,Books,147.95,295.9
+Lindsay Perez,C0124,Europe,2024-08-26,T00269,2024-02-06 16:22:41,P053,TechPro Rug,Home Decor,274.94,1099.76
+Lindsay Perez,C0124,Europe,2024-08-26,T00742,2024-03-23 05:53:50,P022,HomeSense Wall Art,Home Decor,137.54,275.08
+Lindsay Perez,C0124,Europe,2024-08-26,T00027,2024-03-30 21:17:42,P086,SoundWave Novel,Books,440.7,881.4
+Lindsay Perez,C0124,Europe,2024-08-26,T00203,2024-03-31 16:50:02,P054,SoundWave Cookbook,Books,57.3,229.2
+Lindsay Perez,C0124,Europe,2024-08-26,T00478,2024-04-12 12:07:07,P006,ActiveWear Rug,Home Decor,121.32,485.28
+Lindsay Perez,C0124,Europe,2024-08-26,T00625,2024-07-02 09:34:25,P045,SoundWave T-Shirt,Clothing,481.78,963.56
+Lindsay Perez,C0124,Europe,2024-08-26,T00050,2024-10-07 07:58:38,P016,ActiveWear Running Shoes,Clothing,330.05,330.05
+Kathryn Stevens,C0127,Europe,2024-04-04,T00305,2024-01-18 15:08:21,P028,HomeSense Desk Lamp,Home Decor,235.58,942.32
+Kathryn Stevens,C0127,Europe,2024-04-04,T00444,2024-02-08 03:30:38,P084,ActiveWear Wall Art,Home Decor,337.91,337.91
+Kathryn Stevens,C0127,Europe,2024-04-04,T00166,2024-04-25 07:38:55,P067,ComfortLiving Bluetooth Speaker,Electronics,300.68,300.68
+Kathryn Stevens,C0127,Europe,2024-04-04,T00116,2024-08-15 21:51:12,P032,BookWorld Cookbook,Books,488.63,488.63
+Kathryn Stevens,C0127,Europe,2024-04-04,T00082,2024-08-25 05:43:29,P088,SoundWave Headphones,Electronics,263.55,263.55
+Kathryn Stevens,C0127,Europe,2024-04-04,T00543,2024-09-20 08:12:56,P098,SoundWave Laptop,Electronics,299.93,899.79
+Lisa Jackson,C0132,Europe,2023-02-01,T00734,2024-09-29 16:20:32,P045,SoundWave T-Shirt,Clothing,481.78,963.56
+Lisa Jackson,C0132,Europe,2023-02-01,T00970,2024-11-17 06:14:00,P049,TechPro Textbook,Books,147.95,591.8
+Lisa Jackson,C0132,Europe,2023-02-01,T00239,2024-12-06 19:03:54,P049,TechPro Textbook,Books,147.95,295.9
+Toni Weaver,C0135,Europe,2022-08-23,T00380,2024-01-04 16:40:50,P046,BookWorld Sweater,Clothing,366.07,1464.28
+Toni Weaver,C0135,Europe,2022-08-23,T00713,2024-01-22 02:25:06,P079,ActiveWear Rug,Home Decor,417.37,834.74
+Toni Weaver,C0135,Europe,2022-08-23,T00430,2024-05-16 03:37:41,P003,ComfortLiving Biography,Books,44.12,88.24
+Toni Weaver,C0135,Europe,2022-08-23,T00725,2024-10-03 20:53:23,P062,HomeSense Novel,Books,374.16,748.32
+Paul Parsons,C0141,Europe,2023-02-23,T00041,2024-02-13 23:56:36,P062,HomeSense Novel,Books,374.16,1496.64
+Paul Parsons,C0141,Europe,2023-02-23,T00580,2024-04-09 07:28:17,P025,ActiveWear Cookware Set,Home Decor,284.62,284.62
+Paul Parsons,C0141,Europe,2023-02-23,T00899,2024-04-30 17:03:34,P093,TechPro Vase,Home Decor,304.94,304.94
+Paul Parsons,C0141,Europe,2023-02-23,T00811,2024-06-03 23:59:14,P048,TechPro Cookbook,Books,416.4,1665.6
+Paul Parsons,C0141,Europe,2023-02-23,T00439,2024-07-01 14:11:51,P092,BookWorld Running Shoes,Clothing,389.2,1556.8
+Paul Parsons,C0141,Europe,2023-02-23,T00628,2024-08-19 00:45:26,P064,HomeSense Running Shoes,Clothing,452.42,452.42
+Paul Parsons,C0141,Europe,2023-02-23,T00076,2024-09-23 20:32:31,P065,BookWorld Sweater,Clothing,427.61,1282.83
+Paul Parsons,C0141,Europe,2023-02-23,T00861,2024-09-26 21:52:56,P042,ActiveWear Headphones,Electronics,379.44,1517.76
+Paul Parsons,C0141,Europe,2023-02-23,T00316,2024-12-03 18:01:55,P036,BookWorld Jacket,Clothing,372.55,745.1
+Paul Parsons,C0141,Europe,2023-02-23,T00289,2024-12-03 21:22:02,P083,ActiveWear Smartwatch,Electronics,455.72,1367.16
+Tina Wilson,C0149,Europe,2023-01-21,T00346,2024-04-09 16:45:10,P084,ActiveWear Wall Art,Home Decor,337.91,1351.64
+Tina Wilson,C0149,Europe,2023-01-21,T00652,2024-04-27 01:00:06,P092,BookWorld Running Shoes,Clothing,389.2,1556.8
+Tina Wilson,C0149,Europe,2023-01-21,T00598,2024-05-24 09:32:01,P045,SoundWave T-Shirt,Clothing,481.78,963.56
+Tina Wilson,C0149,Europe,2023-01-21,T00969,2024-07-30 08:34:58,P012,ComfortLiving Headphones,Electronics,159.6,478.8
+Tina Wilson,C0149,Europe,2023-01-21,T00955,2024-08-29 14:05:41,P073,ComfortLiving Laptop,Electronics,26.99,53.98
+Morgan Perez,C0164,Europe,2023-06-01,T00334,2024-02-22 14:01:23,P004,BookWorld Rug,Home Decor,95.69,95.69
+Morgan Perez,C0164,Europe,2023-06-01,T00446,2024-02-25 03:48:50,P035,ActiveWear T-Shirt,Clothing,30.59,61.18
+Morgan Perez,C0164,Europe,2023-06-01,T00117,2024-03-25 07:41:04,P096,SoundWave Headphones,Electronics,307.47,614.94
+Morgan Perez,C0164,Europe,2023-06-01,T00176,2024-10-20 16:20:50,P075,TechPro Textbook,Books,497.76,497.76
+Morgan Perez,C0164,Europe,2023-06-01,T00997,2024-11-01 23:04:56,P023,ActiveWear Cookware Set,Home Decor,454.53,1818.12
+John Rogers,C0166,Europe,2022-02-13,T00635,2024-07-25 02:34:05,P078,HomeSense Rug,Home Decor,41.18,164.72
+John Rogers,C0166,Europe,2022-02-13,T00796,2024-08-12 05:20:19,P074,SoundWave Desk Lamp,Home Decor,295.58,886.74
+John Rogers,C0166,Europe,2022-02-13,T00018,2024-09-21 22:21:26,P010,ComfortLiving Smartwatch,Electronics,350.13,1050.39
+John Rogers,C0166,Europe,2022-02-13,T00150,2024-10-22 12:08:25,P080,ActiveWear Jacket,Clothing,303.5,303.5
+Brandy Welch,C0167,Europe,2024-01-27,T00206,2024-05-05 05:32:27,P087,TechPro Running Shoes,Clothing,290.17,580.34
+Brandy Welch,C0167,Europe,2024-01-27,T00072,2024-05-23 19:17:40,P048,TechPro Cookbook,Books,416.4,1249.2
+Brandy Welch,C0167,Europe,2024-01-27,T00128,2024-10-01 14:05:25,P061,HomeSense Desk Lamp,Home Decor,156.96,470.88
+Logan Harris,C0170,Europe,2023-09-13,T00264,2024-01-12 10:17:10,P019,ComfortLiving Sweater,Clothing,385.37,1541.48
+Logan Harris,C0170,Europe,2023-09-13,T00883,2024-05-10 03:22:49,P089,HomeSense Bluetooth Speaker,Electronics,220.91,883.64
+Logan Harris,C0170,Europe,2023-09-13,T00268,2024-05-20 10:53:24,P030,ActiveWear Cookbook,Books,277.86,277.86
+Logan Harris,C0170,Europe,2023-09-13,T00707,2024-05-27 15:48:49,P094,HomeSense Cookware Set,Home Decor,447.34,1342.02
+Logan Harris,C0170,Europe,2023-09-13,T00885,2024-09-13 07:08:30,P074,SoundWave Desk Lamp,Home Decor,295.58,886.74
+Jamie Webb,C0172,Europe,2024-09-09,T00743,2024-01-21 13:21:23,P074,SoundWave Desk Lamp,Home Decor,295.58,886.74
+Jamie Webb,C0172,Europe,2024-09-09,T00561,2024-05-14 14:21:56,P069,BookWorld Biography,Books,100.81,100.81
+Jamie Webb,C0172,Europe,2024-09-09,T00651,2024-06-12 22:33:14,P009,BookWorld Wall Art,Home Decor,325.01,650.02
+Jamie Webb,C0172,Europe,2024-09-09,T00574,2024-07-23 20:01:12,P003,ComfortLiving Biography,Books,44.12,44.12
+Jamie Webb,C0172,Europe,2024-09-09,T00816,2024-09-25 06:56:25,P078,HomeSense Rug,Home Decor,41.18,82.36
+Jamie Webb,C0172,Europe,2024-09-09,T00191,2024-11-21 12:52:03,P050,ActiveWear Smartwatch,Electronics,437.65,437.65
+Donald Miller,C0179,Europe,2022-10-16,T00377,2024-01-22 19:36:33,P059,SoundWave Jeans,Clothing,303.2,303.2
+Donald Miller,C0179,Europe,2022-10-16,T00373,2024-02-07 20:28:19,P082,ComfortLiving Rug,Home Decor,55.99,111.98
+Donald Miller,C0179,Europe,2022-10-16,T00320,2024-04-06 16:23:53,P032,BookWorld Cookbook,Books,488.63,1465.89
+Donald Miller,C0179,Europe,2022-10-16,T00296,2024-07-23 09:15:48,P022,HomeSense Wall Art,Home Decor,137.54,412.62
+Donald Miller,C0179,Europe,2022-10-16,T00586,2024-08-31 22:33:10,P093,TechPro Vase,Home Decor,304.94,304.94
+Donald Miller,C0179,Europe,2022-10-16,T00954,2024-10-10 04:15:26,P088,SoundWave Headphones,Electronics,263.55,1054.2
+Joshua Preston,C0182,Europe,2024-12-28,T00903,2024-01-29 19:25:10,P020,ActiveWear Jacket,Clothing,396.34,1585.36
+Joshua Preston,C0182,Europe,2024-12-28,T00687,2024-03-31 22:56:31,P021,SoundWave Rug,Home Decor,335.84,1343.36
+Joshua Preston,C0182,Europe,2024-12-28,T00655,2024-04-28 02:14:05,P061,HomeSense Desk Lamp,Home Decor,156.96,627.84
+Joshua Preston,C0182,Europe,2024-12-28,T00781,2024-05-06 19:24:04,P008,BookWorld Bluetooth Speaker,Electronics,146.85,146.85
+Joshua Preston,C0182,Europe,2024-12-28,T00173,2024-05-09 17:32:28,P097,BookWorld Cookbook,Books,319.34,1277.36
+Laura Watts,C0196,Europe,2022-06-07,T00606,2024-08-06 14:37:15,P018,ComfortLiving Mystery Book,Books,436.89,1310.67
+Laura Watts,C0196,Europe,2022-06-07,T00274,2024-08-28 19:56:53,P079,ActiveWear Rug,Home Decor,417.37,417.37
+Laura Watts,C0196,Europe,2022-06-07,T00212,2024-12-03 12:54:48,P020,ActiveWear Jacket,Clothing,396.34,1585.36
+Laura Watts,C0196,Europe,2022-06-07,T00575,2024-12-15 03:43:35,P079,ActiveWear Rug,Home Decor,417.37,1669.48
+Christina Harvey,C0197,Europe,2023-03-21,T00803,2024-01-13 04:52:09,P013,BookWorld Smartwatch,Electronics,114.2,456.8
+Christina Harvey,C0197,Europe,2023-03-21,T00100,2024-05-08 15:48:20,P084,ActiveWear Wall Art,Home Decor,337.91,1013.73
+Christina Harvey,C0197,Europe,2023-03-21,T00951,2024-12-27 18:20:31,P027,SoundWave Headphones,Electronics,229.06,458.12
+Rebecca Ray,C0198,Europe,2022-02-27,T00145,2024-09-29 16:14:59,P064,HomeSense Running Shoes,Clothing,452.42,904.84
+Rebecca Ray,C0198,Europe,2022-02-27,T00583,2024-10-04 18:31:12,P073,ComfortLiving Laptop,Electronics,26.99,26.99
+Andrea Jenkins,C0199,Europe,2022-12-03,T00626,2024-08-17 12:06:08,P079,ActiveWear Rug,Home Decor,417.37,834.74
+Andrea Jenkins,C0199,Europe,2022-12-03,T00001,2024-08-25 12:38:23,P067,ComfortLiving Bluetooth Speaker,Electronics,300.68,300.68
+Andrea Jenkins,C0199,Europe,2022-12-03,T00761,2024-10-01 05:57:09,P022,HomeSense Wall Art,Home Decor,137.54,550.16
+Andrea Jenkins,C0199,Europe,2022-12-03,T00963,2024-10-26 00:01:58,P008,BookWorld Bluetooth Speaker,Electronics,146.85,293.7
