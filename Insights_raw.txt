@@ -1,0 +1,75 @@
+Maxinum Customers in South America
+Signups increasing in North America
+Most products sold are in expensive category(250-500 USD compare dto 0-250 USD)
+Products in each category are roughly the same
+South america has maximum volume of sales
+
+Signups:
+          High                                             Low
+Asia     Jan23, Feb 23, Oct23, Nov23, Oct24, Nov24        July23, Jan24
+Europe   Oct23, Nov23, Oct24, Nov24                       Feb23, July24, Jan24
+NA       Nov23, Dec23, Oct24, Nov24                       July24, Jan23
+SA       Feb22, Mar22, Feb23, Mar23, Feb24, Mar24         Oct23, Nov23, Oct24, Nov24
+
+
+Transaction Volume:
+          High                  Low
+Asia     Jan, Sept, July        Feb, June, Nov
+Europe   Jan, Aug, Sept         Feb, Nov
+NA       Jan, Apr, Sept         June, Nov
+SA       may, July, Aug         Mar, Apr, Oct
+
+Transactional Volumes (Regional Trends with Product Categories):
+          High                                                   
+Asia     Electronics                           
+Europe   Electronics, Clothing                
+NA       Electronics      
+SA       Clothing
+
+Product Category Trends:
+Electronics: Consistently high demand across all regions, making it a key revenue driver.
+Clothing: Strong performance in Asia, Europe, and South America, with relatively high demand in North America.
+Home Decor: Shows significant regional variations. High demand in Asia and Europe, but lower demand in North America and South America.
+Books: Generally low demand across all regions, with the exception of a slight increase in Europe.
+
+Seasonal Variations:
+Home Decor in Europe shows a significant dip in transactions around the middle of the year.
+Home Decor in North America shows a decline towards the end of the year.
+
+Average Spending in different continent:
+Asia                3456.249318
+Europe              3325.0926
+North America       3311.16087
+South America       3717.84
+
+Overall Spending Patterns:
+Clothing consistently shows the highest average spending across all four datasets.
+Electronics generally ranks second in terms of average spending, with some variations between datasets.
+
+Dataset-Specific Observations:
+Asia, Europe, NA: Show very similar spending patterns, with Clothing having the highest average spending followed closely by Electronics.
+SA: Clothing having the highest average spending, followed by Electronics and Home Decor.
+
+Correlation between Products:
+No two products are correlated. This means transation(buying) of one product doesnot influence the transaction of another product
+
+Customer Retention and Churn Rate Over Time:
+Retention Rate: The retention rate generally increases over time, indicating that the company is retaining more customers over time. 
+Churn Rate: The churn rate shows a decreasing trend over time, which is a positive sign as it suggests that fewer customers are leaving the company.
+
+First-Time Buyers vs. Repeat Customers:
+New Customers: The number of new customers generally increases over time, indicating that the company is consistently acquiring new customers. 
+Repeat Customers: The number of repeat customers also increases over time, which is a positive sign as it suggests that existing customers are making repeat purchases. 
+
+Regional Preferences:
+Asia: Shows a strong preference for Clothing, with a normalized proportion of spending at 0.32.
+Europe: Demonstrates a balanced preference across all product categories, with spending proportions ranging from 0.22 to 0.29.
+North America: Exhibits a strong preference for Electronics, with a normalized proportion of spending at 0.29.
+South America: Shows a strong preference for Clothing, similar to Asia, with a normalized proportion of spending at 0.32.
+
+Product Category Preferences:
+
+Clothing: Is the most popular category in Asia and South America, indicating strong regional demand.
+Electronics: Is the most preferred category in North America, suggesting a significant market for electronic devices in this region.
+Books and Home Decor: Show relatively balanced preferences across regions, with no single region exhibiting a strong preference for either category.
+
